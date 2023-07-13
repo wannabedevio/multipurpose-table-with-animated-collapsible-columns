@@ -6,7 +6,7 @@ A multipurpose, responsive table with animated collapsible columns and sticky he
 
 [Article on WANNABEDEV](https://wannabedev.io/tutorials/multipurpose-table-with-animated-collapsible-columns)
 
-[Demo](https://wannabedev.io/_posts/demo/multipurpose-table-with-animated-collapsible-columns/index.html)
+[Demo](https://wannabedev.io/_posts/multipurpose-table-with-animated-collapsible-columns/demo/index.html)
 
 ## Credits
 - The inspiration for effects comes from [Jan Hoffmann](https://dribbble.com/shots/4879622-Insurance-mobile-website-table-view)
